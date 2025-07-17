@@ -25,7 +25,8 @@ This project presents an automated essay grading system that utilizes a 4-bit qu
 
 ### Workflow
 
-![Workflow Diagram](imges/Workflow.jpg)
+![Workflow (Community)](https://github.com/user-attachments/assets/67c87781-8e1d-4274-922d-1b91c4412c83)
+
 
 
 The system follows this process:
@@ -79,7 +80,8 @@ target_modules=[       # Targeted layers
 
 ### Performance Metrics
 
-![Confusion Matrix](images/Unknown-3.png)
+<img width="649" height="547" alt="Unknown-3" src="https://github.com/user-attachments/assets/0ce46307-bfc5-4fa8-b103-187466f9e37e" />
+
 
 #### Score Prediction Accuracy
 - **Mean Absolute Error (MAE)**: 0.26
@@ -100,7 +102,8 @@ target_modules=[       # Targeted layers
 
 ### Rationale Quality
 
-![Rationale Similarity](images/Unknown-2.png)
+<img width="686" height="470" alt="Unknown-2" src="https://github.com/user-attachments/assets/b3a1f172-a076-4ff9-84fb-e15221fc4c63" />
+
 
 - **Average Cosine Similarity**: 0.7561
 - Indicates model-generated rationales are semantically close to human-written explanations
