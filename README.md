@@ -25,7 +25,7 @@ This project presents an automated essay grading system that utilizes a 4-bit qu
 
 ### Workflow
 
-![Workflow Diagram](images/Workflow.jpg)
+![Workflow Diagram](imges/Workflow.jpg)
 
 
 The system follows this process:
@@ -79,28 +79,28 @@ target_modules=[       # Targeted layers
 
 ### Performance Metrics
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/Unknown-3.png)
 
 #### Score Prediction Accuracy
-- **Mean Absolute Error (MAE)**: 0.2789
-- **Root Mean Square Error (RMSE)**: 0.5439
-- **Pearson Correlation**: 0.9129
-- **Exact Match Accuracy**: 72.96%
+- **Mean Absolute Error (MAE)**: 0.26
+- **Root Mean Square Error (RMSE)**: 0.5281
+- **Pearson Correlation**: 0.9179
+- **Exact Match Accuracy**: 75.96%
 - **Within-1 Accuracy**: 99.15%
-- **Perplexity**: 1.52
+- **Perplexity**: 1.42
 
 #### F1 Scores by Class
 | Score | F1 Score |
 |-------|----------|
-| 0     | 0.75     |
-| 1     | 0.70     |
+| 0     | 0.79     |
+| 1     | 0.72     |
 | 2     | 0.58     |
 | 3     | 0.82     |
 | 4     | 0.66     |
 
 ### Rationale Quality
 
-![Rationale Similarity](images/rationale_similarity.png)
+![Rationale Similarity](images/Unknown-2.png)
 
 - **Average Cosine Similarity**: 0.7561
 - Indicates model-generated rationales are semantically close to human-written explanations
