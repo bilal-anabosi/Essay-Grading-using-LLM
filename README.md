@@ -166,10 +166,6 @@ def grade_essay(question, reference_answer, student_answer, mark_scheme):
 - Optimal configuration found through systematic experimentation
 - Balanced performance and generalization
 
-### Resource Constraints
-- 4-bit quantization reduced memory requirements
-- LoRA adaptation enabled efficient fine-tuning
-- Single epoch training prevented overfitting on small dataset
 
 ## Future Work
 
