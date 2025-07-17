@@ -69,7 +69,8 @@ target_modules=[       # Targeted layers
 ```
 
 ### Training Setup
-- **Epochs**: 1
+- **Epochs**: 2.4
+- **Steps**: 250
 - **Batch Size**: 16 (effective)
 - **Optimizer**: AdamW (8-bit)
 - **Learning Rate**: 2e-4
