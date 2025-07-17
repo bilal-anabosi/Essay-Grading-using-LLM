@@ -25,7 +25,7 @@ This project presents an automated essay grading system that utilizes a 4-bit qu
 
 ### Workflow
 
-!imges/Workflow (Community).jpg
+![workflow](imges/Workflow (Community).jpg)
 
 The system follows this process:
 1. **Input Processing**: Takes essay question, reference answer, student answer, and mark scheme
@@ -38,7 +38,7 @@ The system follows this process:
 
 - **Base Model**: Mistral-7B-Instruct-v0.2 (4-bit quantized)
 - **Fine-tuning**: LoRA (Low-Rank Adaptation) with optimal parameters
-- **Training Environment**: Google Colab with Tesla T4 GPU
+- **Training Environment**: Google Colab with Tesla T4 GPUÂ
 - **Quantization**: 4-bit (nf4) with float16 compute
 
 ## Dataset
