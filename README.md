@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents an automated essay grading system that utilizes a 4-bit quantized instruction-tuned transformer model (Mistral-7B-Instruct-v0.2) to assess student essays. The system provides both numerical scores (0-4) and detailed rationales, simulating expert grading behavior with high consistency and scalability.
+This project presents an automated essay grading system that utilizes a 4-bit quantized instruction-tuned transformer model (Mistral-7B-Instruct-v0.2) to assess student essays. The system provides both numerical scores (0-4) and detailed rationales, simulating expert grading behavior with high consistency, this was done by using loRA and instruction tuning.
 
 ## Team Members
 
