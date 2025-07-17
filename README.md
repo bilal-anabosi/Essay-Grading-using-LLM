@@ -25,7 +25,7 @@ This project presents an automated essay grading system that utilizes a 4-bit qu
 
 ### Workflow
 
-![Workflow Diagram](images/workflow.png)
+!imges/Workflow (Community).jpg
 
 The system follows this process:
 1. **Input Processing**: Takes essay question, reference answer, student answer, and mark scheme
