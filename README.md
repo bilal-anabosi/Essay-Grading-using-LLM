@@ -19,7 +19,7 @@ This project presents an automated essay grading system that utilizes a 4-bit qu
 - 📊 **Strong Correlation**: Pearson correlation of 0.91 with human graders
 - 🔍 **Interpretable Results**: Generates detailed rationales with 0.76 semantic similarity to human explanations
 - ⚡ **Efficient Training**: Uses LoRA and 4-bit quantization for resource-efficient fine-tuning
-- 🔄 **Scalable**: Designed for educational settings requiring consistent, large-scale assessment
+
 
 ## System Architecture
 
