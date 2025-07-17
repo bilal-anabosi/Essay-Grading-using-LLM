@@ -25,7 +25,8 @@ This project presents an automated essay grading system that utilizes a 4-bit qu
 
 ### Workflow
 
-![workflow](imges/Workflow (Community).jpg)
+![Workflow Diagram](imges/Workflow (Community).jpg)
+
 
 The system follows this process:
 1. **Input Processing**: Takes essay question, reference answer, student answer, and mark scheme
@@ -173,32 +174,3 @@ def grade_essay(question, reference_answer, student_answer, mark_scheme):
 - Implement active learning for continuous improvement
 - Deploy as web service for educational institutions
 - Explore integration with learning management systems
-
-## Citation
-
-```bibtex
-@project{anabosi2025essay,
-  title={Automatic Essay Grading using Instruction-Tuned Transformers},
-  author={Anabosi, Bilal and Asedah, Toqa and Istieteh, Ahmad},
-  supervisor={Abdelhaq, Hamed},
-  institution={An-Najah National University},
-  year={2025},
-  month={May}
-}
-```
-
-## Acknowledgments
-
-We express our sincere gratitude to:
-- **Dr. Hamed Abdelhaq** for supervision and guidance
-- **An-Najah National University** for providing resources
-- **Department of Information Technology** for academic support
-- Our families and peers for continuous encouragement
-
-## License
-
-This project is developed for academic purposes at An-Najah National University. Please contact the authors for usage permissions.
-
----
-
-*For questions or collaboration opportunities, please contact the project team.*
