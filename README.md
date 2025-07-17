@@ -1,4 +1,5 @@
 # Automatic Essay Grading using Instruction-Tuned Transformers
+For more information read the following documentation [Essay Grading Document.pdf](https://github.com/user-attachments/files/21301878/nlp_doc1.pdf)
 
 ## Overview
 
