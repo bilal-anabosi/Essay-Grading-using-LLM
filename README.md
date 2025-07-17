@@ -25,7 +25,7 @@ This project presents an automated essay grading system that utilizes a 4-bit qu
 
 ### Workflow
 
-![Workflow Diagram](imges/Workflow (Community).jpg)
+![Workflow Diagram](images/Workflow.jpg)
 
 
 The system follows this process:
